@@ -5,13 +5,13 @@
  * This file registers all of this child theme's specific Theme Settings, accessible from
  * Genesis > Child Theme Settings.
  *
- * @package     BE_Genesis_Child
+ * @package     ME_Genesis_Child
  * @since       1.0.0
- * @link        https://github.com/billerickson/BE-Genesis-Child
- * @author      Bill Erickson <bill@billerickson.net>
- * @copyright   Copyright (c) 2011, Bill Erickson
+ * @link        https://github.com/media317/ME-Genesis-Child
+ * @author      Alan Smith <asmith@media317.net>
+ * @copyright   Copyright (c) 2012, Alan Smith
  * @license     http://www.opensource.org/licenses/gpl-license.php GPL v2.0 (or later)
- * @link        https://github.com/billerickson/BE-Genesis-Child
+ * @forked      Forked from https://github.com/billerickson/BE-Genesis-Child
  */ 
  
 /**
